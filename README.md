@@ -16,8 +16,9 @@ sempre com sono o tempo todo<br>main sage<br>lvl max no genshin<br>tenho 2 cacho
 ---
 [![](https://visitcount.itsvg.in/api?id=yasminsemprecomsono&icon=7&color=10)](https://visitcount.itsvg.in)
 
-  ## 💰 doar pfvr
-  manda um pix ai
+![Image](https://github.com/user-attachments/assets/088badfc-a92b-49ed-9014-f0baff30517c)
+  ## 💰aceito pix
+  
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
