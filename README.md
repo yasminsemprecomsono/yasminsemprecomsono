@@ -9,12 +9,8 @@ sempre com sono o tempo todo<br>main sage<br>lvl max no genshin<br>tenho 2 cacho
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" alt="Lua" title="Lua" width="36" height="36" /></a>
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yasminsemprecomsono&theme=rose&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yasminsemprecomsono&theme=rose&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminsemprecomsono&theme=rose&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### 🔝 criei hj a conta🤠
+### 🔝
 ![](https://github-contributor-stats.vercel.app/api?username=yasminsemprecomsono&limit=5&theme=omni&combine_all_yearly_contributions=true)
 
 ---
