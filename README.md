@@ -1,9 +1,9 @@
 # tudo que vc deve saber sobre mim😍
-sempre com sono o tempo todo<br>main sage<br>lvl max no genshin<br>tenho 2 cachorros :D
+sempre com sono <br>main sage porem duelista<br>lvl max no genshin<br>tenho 2 cachorros :D
 
 
 ## 🌐 contato
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/t0teseel3) [!
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/t0teseel3) 
 
 # 💻 sei pouco
 <p align="left">
