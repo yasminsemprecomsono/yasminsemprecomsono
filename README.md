@@ -3,7 +3,7 @@ sempre com sono o tempo todo<br>main sage<br>lvl max no genshin<br>tenho 2 cacho
 
 
 ## 🌐 contato
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/t0teseel3) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/problemaaticaa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@besess3n) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/t0teseel3) [!
 
 # 💻 sei pouco
 <p align="left">
