@@ -9,7 +9,6 @@
 
 ### 🎓 Sobre Mim
 * **Desenvolvedora em Formação:** Estudante do último ano de Desenvolvimento de Sistemas.
-* **Formatura 2026:** Focada em encerrar esse ciclo e iniciar minha carreira como Dev no exterior 🇺🇸.
 
 ### 🛡️ Projeto em Destaque
 * **Sistema de Gestão de EPIs:** Desenvolvendo uma solução em **Java** para controle e entrega de Equipamentos de Proteção Individual.
