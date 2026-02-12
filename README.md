@@ -1,8 +1,8 @@
 # Oie, eu sou a Yas! 🌸 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6Mmt6ZHg0bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBmcm9tX2dpZl9zZWFyY2gmY3Q9Zw/3o7TKVUn7iM8FMEU24/giphy.gif" width="450px">
-  <p><i>"Sempre com sono"</i> ✨</p>
+  <img src="https://i.pinimg.com/originals/2b/78/49/2b7849291606c20c92104d5402b8120a.gif" width="450px">
+  <p><i>"Sempre com sono"</i> 😴 </p>
 </div>
 
 ---
@@ -30,8 +30,9 @@
 ---
 
 ### 📬 Forma de Contaro
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](LINK_DO_SEU_INSTAGRAM)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/t0teseel3/)
 
-<div align="right">
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6Mmt6ZHg0bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBmcm9tX2dpZl9zZWFyY2gmY3Q9Zw/L1R1QHUR4YpG7TsMlm/giphy.gif" width="300px">
   <p>💰 aceito pix</p>
 </div>
