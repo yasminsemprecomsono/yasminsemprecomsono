@@ -33,6 +33,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/t0teseel3/)
 
 <div align="center">
-  <img src="https://tenor.com/pt-BR/view/rage-anime-gif-20764017" width="300px">
+  <img src="https://media1.tenor.com/m/MdCwwLF6g7cAAAAC/rage-anime.gif"width="300px">
   <p>💰 aceito pix</p>
 </div>
