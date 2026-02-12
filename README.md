@@ -1,7 +1,7 @@
 # Oie, eu sou a Yas! 🌸 
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/2b/78/49/2b7849291606c20c92104d5402b8120a.gif" width="450px">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmYzMXU0NnoxNTluN2F3ZGV2YWNxZnRndHBxYzdlM3Y5YnFwaGYxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8ff7yB9kSfz5m/giphy.gif" width="450px">
   <p><i>"Sempre com sono"</i> 😴 </p>
 </div>
 
@@ -11,7 +11,7 @@
 * **Desenvolvedora em Formação:** Estudante do último ano de Desenvolvimento de Sistemas.
 * **Formatura 2026:** Focada em encerrar esse ciclo e iniciar minha carreira como Dev no exterior 🇺🇸.
 
-### 🛡️ Projeto Acadêmico em Destaque
+### 🛡️ Projeto em Destaque
 * **Sistema de Gestão de EPIs:** Desenvolvendo uma solução em **Java** para controle e entrega de Equipamentos de Proteção Individual.
 
 ---
@@ -24,15 +24,15 @@
 ---
 
 ### ✨ Meu Mundinho
-* 🎮 **Gamer:** Level Max no **Genshin Impact**, Main Sage (porém duelista) no **Valorant**, além de curtir **CS** e **Minecraft**.
-* 🐾 **Mãe de Pet:** Tenho duas cachorrinhas lindas, a **Cute** e a **Pequena**.
+* 🎮 **Gamer:** Level Max no **Genshin Impact**, Main Sage no **Valorant**, e tbm gosto de **CS** e **Minecraft**.
+* 🐾 **Mãe de Pet:** Tenho duas cachorrinhas lindas a **Cute** e a **Pequena**.
 
 ---
 
-### 📬 Forma de Contaro
+### 📬 Forma de Contato
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/t0teseel3/)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6Mmt6ZHg0bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBmcm9tX2dpZl9zZWFyY2gmY3Q9Zw/L1R1QHUR4YpG7TsMlm/giphy.gif" width="300px">
+  <img src="https://tenor.com/pt-BR/view/rage-anime-gif-20764017" width="300px">
   <p>💰 aceito pix</p>
 </div>
